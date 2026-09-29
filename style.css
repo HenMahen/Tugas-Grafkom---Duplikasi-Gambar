@@ -17,6 +17,12 @@ body{
     display: grid;
     gap: 12px;
     text-align: center;
+    text-decoration: none;
+}
+
+ul{
+    list-style: none;
+    padding: 0;
 }
 
 header h1{
