@@ -7,8 +7,8 @@ body{
     min-height: 100vh;
     display: grid;
     place-items: center;
-    background: #07111f;
-    color: #e5eefb;
+    background: #fff;
+    color: #000;
     font-family: Arial, sans-serif;
 }
 
@@ -17,7 +17,6 @@ body{
     display: grid;
     gap: 12px;
     text-align: center;
-    
 }
 
 header h1{
@@ -27,15 +26,12 @@ header h1{
 
 header p{
     margin-top: 0;
-    color: #9fb3c8;
     font-size: 0.9rem;
 }
 
 canvas{
     width: 100%;
     height: auto;
-    border: 1px solid #38bdf8;
-    background: #030712;
+    border: 1px solid #000;
     display: block;
-    box-shadow: 0 4px 6px rgba(0, 0, 0, 0.3);
 }
