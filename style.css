@@ -34,7 +34,6 @@ header p{
 canvas{
     width: 100%;
     height: auto;
-    border: 1px solid #38bdf8;
     background: #030712;
     display: block;
     box-shadow: 0 4px 6px rgba(0, 0, 0, 0.3);
